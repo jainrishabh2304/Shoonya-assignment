@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Shoonya-assignment/static/css/main.caf6457f.css",
+    "main.js": "/Shoonya-assignment/static/js/main.e6ae0a6c.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Shoonya-assignment/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/logo.png": "/Shoonya-assignment/static/media/logo.8ffb63fcb8743ce2081a.png",
+    "static/media/fontawesome-webfont.eot": "/Shoonya-assignment/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Shoonya-assignment/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Shoonya-assignment/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Shoonya-assignment/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Shoonya-assignment/index.html",
+    "main.caf6457f.css.map": "/Shoonya-assignment/static/css/main.caf6457f.css.map",
+    "main.e6ae0a6c.js.map": "/Shoonya-assignment/static/js/main.e6ae0a6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf6457f.css",
+    "static/js/main.e6ae0a6c.js"
+  ]
+}
