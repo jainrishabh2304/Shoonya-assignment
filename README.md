@@ -103,5 +103,5 @@ This project is licensed under the MIT License. See the [LICENSE](license) file 
 
 ## Live Website
 
-You can access the live version of the application [here](https://jainrishi23.github.io/Rishabh_shoonya_assignment/).
+You can access the live version of the application [here](https://jainrishabh2304.github.io/Shoonya-assignment/).
 
